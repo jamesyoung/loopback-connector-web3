@@ -92,4 +92,4 @@ module.exports = function(app, cb) {
 ## Example
 
 For an example to get you up and running, checkout the
-[statechannels demo](https://github.com/LunchBadger/statechannels/tree/master/packages/sc-demo-app).
+[payment channels demo](https://github.com/levelkdev/payment-channel-demo).
